@@ -71,6 +71,8 @@
   flex-wrap: wrap;
 }
 footer {
+  position: relative;
+  bottom: 0px;
   background-color: coral;
   height: 50px;
   margin-top: 20px;
@@ -112,3 +114,4 @@ footer {
     height: 100%;
   }
 }
+
