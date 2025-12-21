@@ -16,14 +16,6 @@ const products = [
         order: "0302-4661823"
     },
      {
-        image: 'images/3.JPG',
-        name: 'Boy suit',
-        size: '1/4',
-        price: '1150',
-off: '1400',
-        order: "0302-4661823"
-    },
-     {
         image: 'images/4.jpg',
         name: 'Girl Suit',
         size: '1/5',
@@ -183,4 +175,5 @@ off: '1400',
         off: '1800',
         order: "0302-4661823"
     },
+
 ]
